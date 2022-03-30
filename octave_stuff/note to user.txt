@@ -1,0 +1,4 @@
+To run anything in here, cut the file you wish to run, and paste it one directory above this.
+
+If I get around to making it so that you can run things directly from in here, then you will
+not see this file anymore.
